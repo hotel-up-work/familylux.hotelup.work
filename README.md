@@ -1,6 +1,6 @@
 # Міні-готель «Family Люкс»
 
-Live site: https://familylux.webart.work
+Live site: https://familylux.hotelup.work
 
 ## About
 Family Люкс — апарт-готель (`aparthotel`) у Кам’янці-Подільському, Жванецьке шосе, 2А. Сторінка продає APARTMENT FREEDOM + HOTEL CONVENIENCE за формулою STAY · COOK · FAMILY · RELAX; кампанійний рядок «Своя кухня. Свій ритм. Свій Кам’янець.» Бренд family-friendly, але не family-only. «Люкс» не використовується як luxury-твердження.
